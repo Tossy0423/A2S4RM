@@ -1,0 +1,11 @@
+# OSX chache
+*.DS_Store
+
+# vim swp
+*.swp
+
+# Compiled python
+*.pyc
+
+# VScode workspace
+*.code-workspace
