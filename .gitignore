@@ -6,3 +6,6 @@
 
 # Compiled python
 *.pyc
+
+# VScode workspace
+*.code-workspace
