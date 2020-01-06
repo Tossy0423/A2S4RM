@@ -8,9 +8,9 @@
 
 Robomasterにおける相手の装甲板を検知するためのシステム.
 
-## Auther
+## Author
 
-Tossy<br>
+Name: Tossy<br>
 Twitter: Tossy@gtr35nismo0423<br>
 2019年10月までOSAKA TAKOYAKIにて本システムを開発
 
